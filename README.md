@@ -157,6 +157,6 @@ No known bugs at this time.
 Stella Ojiuba - [Github](https://github.com/Stellacandy)
 Okojie Aitebiremen - [Github](https://github.com/tebiremen)
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
