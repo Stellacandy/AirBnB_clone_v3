@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors
 Stella Ojiuba - [Github](https://github.com/Stellacandy)
 Okojie Aitebiremen - [Github](https://github.com/tebiremen)
-
+Nomoya Magazi - [Github](https://github.com/NomoyaMagazi)
 
 ## License
 Public Domain. No copy write protection. 
